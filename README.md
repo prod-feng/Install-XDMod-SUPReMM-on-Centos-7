@@ -1,4 +1,4 @@
-# Install-XDMod-SUPReMM-on-Centos-7
+# Install-XDMoD-SUPReMM-on-Centos-7
 Steps on my installation and configuration of XDMod+SUPReMM, with Slurm
 
 The folloiwng lists the steps that I made to install and configure XDMoD with SUPReMM, with Slurm.
