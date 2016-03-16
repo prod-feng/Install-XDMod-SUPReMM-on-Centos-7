@@ -89,7 +89,7 @@ To transfer your Slurm job info to XDMoD, you can also run commands manually:
 
  Please be aware, the output of Slurm's "sacct" does not match XDMoD very well, you might need to manually adjust it.
  
- To my experience, the most problems for using XDMoD/SUPReMM are the database issues and slight differences of the format of job info between Slurm and XDMod.
+ To my experience, the most problems for using XDMoD/SUPReMM are the database issues and slight differences of the format of job info between Slurm and XDMoD.
  
  
  
