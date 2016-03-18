@@ -81,7 +81,7 @@ To transfer your Slurm job info to XDMoD, you can also run commands manually:
  
  >aggregate_supremm.sh
  
- and  optially:
+ and  optionally:
  
 >supremm_update
 
