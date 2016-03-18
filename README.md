@@ -51,7 +51,7 @@ Run rpm command to install it:
 
 4) Install and configure PCP(Performance Co-Pilot,http://pcp.io/).
 
-Follow the instructions on http://xdmod.sourceforge.net/supremm-compute-pcp.html . Please NOTE, you need PCP version newer than 3.1.8. 
+Follow the instructions on http://xdmod.sourceforge.net/supremm-compute-pcp.html . Please NOTE, you need PCP version newer than 3.10.8. 
 CentOS 7 has PCP version 3.10.6, but you can download the source file to compile and install or to download it's rpm files directly: https://bintray.com/pcp/el7/pcp/3.10.8/#files.
 
 The procedure to compile the PCP source codes is not difficult. The version of the source file is 3.10.9: https://bintray.com/pcp/source/pcp/view
