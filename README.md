@@ -92,7 +92,7 @@ To transfer your Slurm job info to XDMoD, you can also run commands manually:
  To my experience, the most problems for using XDMoD/SUPReMM are the database issues and slight differences of the format of job info between Slurm and XDMoD.
  
  
- Also, tried to install TACC_STATS, https://github.com/TACC/tacc_stats, collecting data with SGE, but seems does not work very well with XDMoD. 
+Also, tried to install TACC_STATS, https://github.com/TACC/tacc_stats, collecting data with SGE, but seems does not work very well with XDMoD. Had to modify a few lines of codes of job_pickles.py to let it work.
  
  
 
