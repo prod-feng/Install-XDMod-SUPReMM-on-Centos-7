@@ -38,7 +38,7 @@ For some reason, the rpm file of supremm-0.9.0-1.x86_64.rpm (https://sourceforge
 So I went to Github(https://github.com/ubccr/supremm) and checked out the most recent version.
 
 Once you have downloaded the source package of SUPReMM, unzip it and then go to it's folder, check to see if you need to update it's 
-config file of "config/config.json"(or you can update it after you have installed, which should be found at "/etc/supremm/config.json"),
+config file of "config/config.json"(or you can update it after you have installed it, which should be found at "/etc/supremm/config.json"),
 then run:
 
 >python setup.py bdist_rpm
